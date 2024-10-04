@@ -1,4 +1,4 @@
-ProdCat
+## ProdCat
 
 ## Description
 This is a Spring Boot application for managing Categories and Products, including CRUD operations, pagination, and a one-to-many relationship between Category and Product.
